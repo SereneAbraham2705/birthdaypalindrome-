@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+h1{
+  text-align: center;
+  color: red;
+}
+#output-res{
+  font-size: x-large;
+  font-style:oblique;
+  color:blue;
+}
