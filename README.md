@@ -6,3 +6,4 @@ TECHNOLOGIES USED:
 HTML, CSS, Javascript.
 
 CHECK OUT THE APP HERE:
+https://serene-bday-palindrome.netlify.app/
